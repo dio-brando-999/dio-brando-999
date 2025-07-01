@@ -1,5 +1,5 @@
 ## Hi there 👋
-## My name is Brandon
+## My name is Brandon and I am a student @ Northeastern University studying Computer Science.
 <!--
 **dio-brando-999/dio-brando-999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
