@@ -1,5 +1,10 @@
 ## Hi there 👋
 ## My name is Brandon and I am a student @ [Northeastern University]([url](https://www.northeastern.edu/)) studying Computer Science.
+
+##contact me!
+*[email protected] (mailto:zau.b@northeastern.edu)
+*[my linkedin]([url]https://www.linkedin.com/in/brandon-zau/)
+
 <!--
 **dio-brando-999/dio-brando-999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
