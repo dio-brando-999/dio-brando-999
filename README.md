@@ -1,8 +1,13 @@
-## Hi there 👋
-## My name is Brandon and I am a student @ [Northeastern University]([url](https://www.northeastern.edu/)) studying Computer Science.
+# Hi 👋 Welcome!
+My name is Brandon and I am a student @ [Northeastern University](https://www.northeastern.edu/) pursuing a B.S in Computer Science.
+
+## Languages & Technology 
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,react,css,html,threejs,figma,vscode,eclipse)](https://skillicons.dev)
+
 ## contact me!
--zau.b@northeastern.edu
--connect on my [linkedin]([url](https://www.linkedin.com/in/brandon-zau/))
+- zau.b@northeastern.edu
+* connect on my [linkedin](https://www.linkedin.com/in/brandon-zau/)
+
 
 <!--
 **dio-brando-999/dio-brando-999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
