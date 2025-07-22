@@ -1,8 +1,7 @@
 ## Hi there 👋
 ## My name is Brandon and I am a student @ [Northeastern University]([url](https://www.northeastern.edu/)) studying Computer Science.
-
-##contact me!
-*[email protected] (mailto:zau.b@northeastern.edu)
+## contact me!
+-zau.b@northeastern.edu
 *[my linkedin]([url]https://www.linkedin.com/in/brandon-zau/)
 
 <!--
